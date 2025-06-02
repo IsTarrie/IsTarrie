@@ -7,7 +7,7 @@
 
     就搞一些小项目,比如canvas艺术,或者是给我的网站做一个新的页面
   
-    最近计划制作一个[hexo](https://hexo.io)主题
+    **最近计划制作一个[hexo](https://hexo.io)主题**
 - 放假的日子 ***(寒暑假)***
 
     - 在[TETR.IO](https://tetr.io)上打 俄罗斯方块
@@ -19,7 +19,7 @@
 
 只发布**在GitHub上**完成调试的**艺术品**
 
-# 关于我的个人网站
+# 我的个人网站(即将下线）
 **[https://tabgreen.pages.dev/](https://tabgreen.pages.dev/)**
-
-我的详细信息都在那里,自己去看吧
+**cloud flare page的服务出了点问题，最近不能正常访问。新的网站计划部署到GitHub Page上**
+**（买不起域名 *（其实是父母不想花那钱）*）**
