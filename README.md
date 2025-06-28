@@ -1,5 +1,5 @@
-# 即将改名
-计划在暑假将 **“TabGreen”** 改名为 **“IsTarrie”** 作为我的新英文名(包括GitHub用户名在内的所有名称都要变更)
+# 改名
+从 **“TabGreen”** 改名为 **“IsTarrie”** 作为我的新英文名(包括GitHub用户名在内的所有名称都要变更)
 # 电脑时刻处于被收走的危机中,但目前还没有
 初中(尤其是初二)经常被父母认为是关键时期,我的父母也一样,他们希望我考个好高中,然后上个好大学.
 
@@ -17,6 +17,6 @@
 # 关于我的GitHub账号
 只发布**艺术品**和**有用**的项目
 # 关于我的CodePen账号
-**[https://codepen.io/tabgreen/](https://codepen.io/tabgreen/)**
+**[https://codepen.io/IsTarrie/](https://codepen.io/IsTarrie/)**
 
 只发布**在GitHub上**完成调试的**艺术品**
