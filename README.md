@@ -13,6 +13,46 @@
 
 这是我领养的像素点:
 https://像素点.cn/967AD4
+# 我的元素
+
+一个被我看中的元素:
+
+<div id = 'el'>
+    <div class = 'el-id'>86</div>
+    <div class = 'el-symbol'>Rn</div>
+    <div class = 'el-name'>氡</div>
+    <div class = 'el-atomic-mass'>[222]</div>
+</div>
+<style>
+    #el,#el *{
+        padding: 0;
+        margin: 0;
+    }
+    #el{
+        width: 100px;
+        height: 100px;
+        background-color:black;
+        border:2px solid rgb(74, 147, 202);
+        border-radius: 10px;
+    }
+    .el-id{
+        text-indent: 3px;
+        font-size: 15px;
+    }
+    .el-symbol{
+        text-align: center;
+        font-size: 22px;
+    }
+    .el-name{
+        text-align: center;
+        font-size: 12px;
+    }
+    .el-atomic-mass{
+        text-align: center;
+        font-size: 10px;
+    }
+</style>
+
 # 电脑时刻处于被收走的危机中,但目前还没有
 初中(尤其是初二)经常被父母认为是关键时期,我的父母也一样,他们希望我考个好高中,然后上个好大学.
 
