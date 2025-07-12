@@ -39,3 +39,7 @@ https://像素点.cn/967AD4
 **[https://codepen.io/IsTarrie/](https://codepen.io/IsTarrie/)**
 
 只发布**在GitHub上**完成调试的**艺术品**
+
+# 联系到我
+邮箱:[istarrie@163.com](mailto:istarrie@163.com)
+B站:[番茄黄瓜味薯片](https://space.bilibili.com/3493280864013042)
