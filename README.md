@@ -16,7 +16,7 @@ https://像素点.cn/967AD4
 
     就搞一些小项目,比如canvas艺术,或者是给我的网站做一个新的页面
 
-    **计划制作一个极简[astro](https://astro.build)主题**
+    **正在维护一个极简[astro](https://astro.build)主题[PaperTheme](https://github.com/IsTarrie/PaperTheme/)**
    
 - 放假的日子 ***(寒暑假)***
 
